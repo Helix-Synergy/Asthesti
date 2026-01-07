@@ -23,7 +23,7 @@ const Home = () => {
                 21-22 | 2026
               </p>
               <p className="text-base md:text-lg font-bold text-lightGreen">
-            Vienna|  Austria
+            Vienna |  Austria
               </p>
             </div>
           </div>

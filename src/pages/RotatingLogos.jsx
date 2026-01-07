@@ -31,7 +31,7 @@ export const tracks = [
       <>
 {" "}
         <Link
-          to="/aesthetic-conference-tracks/"
+          to="/about-aesthetic"
           className="
              hover:text-accent hover:decoration-accent
              transition-colors duration-300"
