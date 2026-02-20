@@ -37,7 +37,7 @@ export const tracks = [
              transition-colors duration-300"
         >
        Cosmetic gynecology 
-        </Link> focuses on aesthetic and functional procedures enhancing women’s intimate health, comfort, and confidence. This track covers non surgical and surgical techniques, regenerative therapies, safety standards, ethical practice, patient selection, outcome assessment, and emerging technologies supporting personalized, evidence based care in modern aesthetic gynecologic practice worldwide clinical innovation excellence
+        </Link> focuses on aesthetic and functional procedures enhancing women’s intimate health, comfort, and confidence. This track covers non surgical and surgical techniques, regenerative therapies, safety standards, ethical practice, patient selection, outcome assessment, and emerging technologies supporting personalized, evidence based care in modern aesthetic gynecologic practice worldwide clinical innovation excellence.
    
       </>
     ),
@@ -452,7 +452,7 @@ const StaticTracks = () => {
                 <h3 className="text-xl text-gray-600 font-semibold mb-3">
                   {track.subtitle}
                 </h3>
-                <p className="text-md text-gray-800 leading-relaxed">
+                <p className="text-md text-gray-800 leading-relaxed text-justify">
                   {track.description}
                 </p>
               </div>

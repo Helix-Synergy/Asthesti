@@ -53,7 +53,7 @@ At AESTHETICA, we bring together global leaders, experts, and innovators to insp
       // linkText: "Microbiome Science",
       // link: "/",
       suffix:
-       "Join global leaders, innovators, and clinicians in shaping the future of aesthetic medicine and cosmetic innovation..",
+       "Join global leaders, innovators, and clinicians in shaping the future of aesthetic medicine and cosmetic innovation.",
     },
   ],
 highlights: [
@@ -122,9 +122,9 @@ const AboutPublicHealth = () => {
           backgroundRepeat: "no-repeat",
         }}
       >
-        <h1 className="text-slate-100 text-3xl sm:text-5xl md:text-6xl font-bold px-4 z-10">
+        <h2 className="text-slate-100 text-3xl sm:text-5xl md:text-6xl font-bold px-4 z-10">
           {data.event.title}
-        </h1>
+        </h2>
       </div>
 
       <h1 className="text-4xl mt-2 font-bold text-one">
@@ -139,7 +139,7 @@ Fostering Collaboration Advancing Women-Centered Excellence
       {data.event.description.map((desc, idx) => (
         <p
           key={idx}
-          className="mb-6 text-lg leading-relaxed text-center w-full min-w-5xl px:2 md:px-12 lg:px-24"
+          className="mb-6 text-lg leading-relaxed text-center w-full min-w-5xl px:2 md:px-12 lg:px-24 text-justify"
         >
           {desc}
         </p>
