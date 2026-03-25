@@ -29,7 +29,7 @@ const Executive_members = () => {
           Meet Our Distinguished Panel Members
         </h2>
         <p className="w-full md:w-2/3 text-sm md:text-base text-slate-600">
-Global leaders, clinicians, and innovators advancing excellence, safety, and innovation in aesthetic medicine at AESTHETICA-2026
+Global leaders, clinicians, and innovators advancing excellence, safety, and innovation in aesthetic medicine at AESTHETICA-2027
         </p>
       </div>
 

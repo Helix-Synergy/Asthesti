@@ -10,22 +10,22 @@ const faqLinks = {
 
 export const faqData = [
   {
-    question: "What is AESTHETICA-2026?",
+    question: "What is AESTHETICA-2027?",
     answer:
-      "AESTHETICA-2026, officially titled the “Aesthetic Medicine & Cosmetic Innovation Summit”, is a premier international conference and exhibition organized by Helix Conferences. It brings together aesthetic physicians, dermatologists, plastic surgeons, cosmetic scientists, medical device innovators, researchers, brand leaders, and industry experts to explore advancements in aesthetic medicine, cosmetic dermatology, anti-aging therapies, regenerative aesthetics, and beauty technology.",
+      "AESTHETICA-2027, officially titled the “Aesthetic Medicine & Cosmetic Innovation Summit”, is a premier international conference and exhibition organized by Helix Conferences. It brings together aesthetic physicians, dermatologists, plastic surgeons, cosmetic scientists, medical device innovators, researchers, brand leaders, and industry experts to explore advancements in aesthetic medicine, cosmetic dermatology, anti-aging therapies, regenerative aesthetics, and beauty technology.",
   },
   {
-    question: "When and where will AESTHETICA-2026 take place?",
+    question: "When and where will AESTHETICA-2027 take place?",
     answer:
-      "AESTHETICA-2026 will take place in 2026. The exact dates and venue will be announced soon.",
+      "AESTHETICA-2027 will take place in 2027. The exact dates and venue will be announced soon.",
   },
   {
-    question: "What are the highlights of AESTHETICA-2026?",
+    question: "What are the highlights of AESTHETICA-2027?",
     answer:
       "Keynote presentations, live aesthetic demonstrations, hands-on workshops, expert-led sessions, product launches, panel discussions, innovation showcases, and high-level networking opportunities across the aesthetic and cosmetic medicine ecosystem.",
   },
   {
-    question: "What summit tracks are featured at AESTHETICA-2026?",
+    question: "What summit tracks are featured at AESTHETICA-2027?",
     answer: (
       <>
         You can explore the full list of tracks here:{" "}
@@ -35,7 +35,7 @@ export const faqData = [
           rel="noopener noreferrer"
           className="text-brand underline"
         >
-          AESTHETICA-2026 Tracks
+          AESTHETICA-2027 Tracks
         </a>
         .
       </>
@@ -55,7 +55,7 @@ export const faqData = [
     ),
   },
   {
-    question: "How can I submit a proposal or presentation for AESTHETICA-2026?",
+    question: "How can I submit a proposal or presentation for AESTHETICA-2027?",
     answer: (
       <>
         You can submit your proposal{" "}
@@ -87,14 +87,14 @@ export const faqData = [
       "Presentation slots typically range from 15–20 minutes, including Q&A. Final presentation guidelines will be shared after proposal acceptance.",
   },
   {
-    question: "Who will be attending AESTHETICA-2026?",
+    question: "Who will be attending AESTHETICA-2027?",
     answer:
       "Aesthetic physicians, dermatologists, plastic and cosmetic surgeons, cosmetic scientists, medical device manufacturers, skincare brands, clinic owners, researchers, investors, and healthcare professionals from around the world.",
   },
   {
     question: "How many people usually attend the summit?",
     answer:
-      "AESTHETICA-2026 is expected to welcome 150+ international participants, including speakers, exhibitors, delegates, brand representatives, and sponsors.",
+      "AESTHETICA-2027 is expected to welcome 150+ international participants, including speakers, exhibitors, delegates, brand representatives, and sponsors.",
   },
   {
     question: "Can I register for multiple speaking or demo sessions?",

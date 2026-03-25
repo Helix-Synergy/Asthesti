@@ -27,7 +27,7 @@ const Orators = () => {
           Meet Our Distinguished Orators
         </h2>
         <p className="w-full md:w-2/3 text-sm md:text-base text-slate-600">
-International experts and aesthetic medicine innovators driving transformative ideas at AESTHETICA-2026
+International experts and aesthetic medicine innovators driving transformative ideas at AESTHETICA-2027
         </p>
       </div>
 

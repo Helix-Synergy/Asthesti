@@ -20,7 +20,7 @@ const Home = () => {
 
             <div className="flex flex-col justify-center items-start leading-tight">
               <p className="text-base md:text-lg font-bold text-lightGreen">
-                21-22 | 2026
+                24-25 | 2027
               </p>
               <p className="text-base md:text-lg font-bold text-lightGreen">
             Vienna |  Austria
@@ -33,7 +33,7 @@ Aesthetic Medicine & Cosmetic Innovation Summit
           </h1>
 
           <p className="text-2xl md:text-5xl text-accent">
-      AESTHETICA-2026
+      AESTHETICA-2027
           </p>
 
           <div className="float-end mt-4">
